@@ -4,15 +4,15 @@
 
 <br />
 
-### 💻 Computer Science Student & Tech Enthusiast ✨
+### 💻 Computer Science Student & Design Enthusiast ✨
 *Aspirando a crear soluciones innovadoras a través del código y el diseño de sistemas.*
 
 ---
 
-<a href="[LINK_A_TU_LINKEDIN]" target="_blank">
+<a href="www.linkedin.com/in/ariana-p-rivera-alejandro-ba1647394" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-6f7da0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:[TU_CORREO@upr.edu]" target="_blank">
+<a href="mailto:ariana.rivera38@upr.edu" target="_blank">
   <img src="https://img.shields.io/badge/Email-a5afc6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -22,10 +22,10 @@
 
 ## 🌸 Sobre Mí
 
-* 🎓 Actualmente estudiando **Ciencias de la Computación**.
-* 💻 Me apasiona el desarrollo de aplicaciones web y explorar el funcionamiento a bajo nivel de los sistemas informáticos.
+* 🎓 Actualmente estudiando **Ciencias de la Computación** en la Universidad de Puerto Rico, Recinto de Río Piedras.
+* 💻 Me apasiona el diseño de aplicaciones web y explorar .
 * 🚀 Colaborando activamente en proyectos de investigación y apoyando la inclusión de más mujeres en la tecnología.
-* ⚡ **Dato curioso:** ¡Me encanta la combinación entre lógica pura, diseño de circuitos y la creatividad del desarrollo front-end!
+* ⚡ **Dato curioso:** ¡Me encanta la combinación entre lógica pura, diseño y la creatividad del desarrollo front-end!
 
 ---
 
