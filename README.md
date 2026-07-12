@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/background/front?type=waving&color=a5afc6&height=180&section=header&text=%C2%A1Hola,%20soy%20[Tu%20Nombre]!%20%E2%9C%A8&fontSize=32&fontColor=ffffff&fontAlignY=45" width="100%" />
+<img src="Ariana P. Rivera.png" width="100%" />
 
 <br />
 
